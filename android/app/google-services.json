@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "577885081513",
+    "project_id": "mysticmall",
+    "storage_bucket": "mysticmall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577885081513:android:f10586bdd34760d6bbbeb8",
+        "android_client_info": {
+          "package_name": "com.example.mystic_mall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577885081513-2anc31h37p74nmomno3g3l07r6i0necb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mystic_mall",
+            "certificate_hash": "1f1bb9b5649cf7dc3492a6cc98a49da5545670da"
+          }
+        },
+        {
+          "client_id": "577885081513-f820dhjmht8mnb15mdaiev8s30p2qpu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7O5DUeqxQ7FgTc49cIvA1a4IOIIKohJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577885081513-f820dhjmht8mnb15mdaiev8s30p2qpu8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "577885081513-5m28soo1uk74oi8tma9vnbnuqq4uofem.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mysticMall.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577885081513:android:2879d56c28762063bbbeb8",
+        "android_client_info": {
+          "package_name": "com.example.mysticmall_admin_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577885081513-f820dhjmht8mnb15mdaiev8s30p2qpu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7O5DUeqxQ7FgTc49cIvA1a4IOIIKohJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577885081513-f820dhjmht8mnb15mdaiev8s30p2qpu8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "577885081513-5m28soo1uk74oi8tma9vnbnuqq4uofem.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mysticMall.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>577885081513-uhnlqq8evipjgrlm83m76o747mcvt33a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.577885081513-uhnlqq8evipjgrlm83m76o747mcvt33a</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>577885081513-2anc31h37p74nmomno3g3l07r6i0necb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAdk20ZOSfklqOIJgvl3pgeojjeXK93ayE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>577885081513</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mysticmallAdminPanel.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>mysticmall</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mysticmall.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:577885081513:ios:2f69fddc61be286abbbeb8</string>
+</dict>
+</plist>
