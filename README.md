@@ -1,16 +1,5 @@
 # mysticmall_admin_panel
 
-A new Flutter project.
+**Admin Panel**.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Welcome to MysticMall admin Panel – your future go-to shopping destination! my Flutter e-commerce app, powered by Firebase, is currently in development as you know user panel is completed  currnetly working on admin panel, it will bring you an intuitive, user-friendly, and feature-packed shopping experience.
