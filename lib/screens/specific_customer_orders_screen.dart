@@ -9,13 +9,15 @@ class SpecificCustomerOrderScreen extends StatelessWidget {
   SpecificCustomerOrderScreen({
     super.key,
     required this.docId,
-    required this.customerName,
+    required this.customerName, required order,
   });
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        centerTitle: true,
+        foregroundColor: AppConstant.appTextColor,
         backgroundColor: AppConstant.appMainColor,
         title: Text(customerName),
       ),
